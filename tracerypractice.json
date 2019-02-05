@@ -1,0 +1,49 @@
+{
+	"name": [
+		"Drake",
+		"Wayne",
+		"Cardi",
+		"Miley",
+		"Nikki",
+		"Royal"
+	],
+	"occupation": [
+		"performer",
+		"designer",
+		"pop artist",
+		"dancer",
+		"boss",
+		"singer"
+	],
+	"origin": [
+		"#name#, the #occupation#, was #always# #expecting# this #news# #plot# to  #action# #platform#, exclusive images"
+	],
+	"always": [
+		"never",
+		"rarely"
+	],
+	"expecting": [
+		"anticipating",
+		"predicting"
+	],
+	"news": [
+		"scandalous",
+		"rumor"
+	],
+	"plot": [
+		"footages",
+		"affair",
+		"mishap "
+	],
+	"action": [
+		"leak",
+		"be obtained",
+		"surface",
+		""
+	],
+	"platform": [
+		"internet",
+		"facebook",
+		"twitter"
+	]
+}
